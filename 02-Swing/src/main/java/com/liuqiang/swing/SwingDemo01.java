@@ -10,7 +10,7 @@ public class SwingDemo01 {
 
     public void init(){
 
-        jFrame.setBounds(400,200,800,600);
+        jFrame.setBounds(400,250,800,600);
         jFrame.setVisible(true);
         /**
          *
