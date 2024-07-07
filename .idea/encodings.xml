@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/01-AWT/src/main/java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/01-AWT/src/main/java/com/liuqiang/component_03/BasicComponentsDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/01-AWT/src/main/java/com/liuqiang/layoutmanger_02/CardLayoutDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/03-book-manger-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-book-manger-admin/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
